@@ -1,4 +1,4 @@
-# Hugo Cheatsheet)
+# Hugo Cheatsheet
 
 Hugo is a fast and flexible static site generator built in GoLang - http://gohugo.io
 
